@@ -1,1 +1,1 @@
-A simple quiz in pure JavaScript
+A simple quiz in plain JavaScript
